@@ -18,6 +18,8 @@ body{
 
 	input[type="submit"] {
 		background: url(index.svg);
+    width: 150px;
+height: 150px;
 		}
    
   
